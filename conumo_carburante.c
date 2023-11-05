@@ -14,7 +14,7 @@ int main() {
     printf("Enter the gallons used (-1 to end)");
     scanf("%f", &gallons);
 
-    while(gallons !=-1){-1
+    while(gallons !=-1){
     
         printf("Enter the miles driven");
         scanf("%f", &miles);
